@@ -1,4 +1,4 @@
- .about-section {
+.about-section {
   padding: 60px 0;
 }
  
@@ -8,7 +8,7 @@
   align-items: center;
   gap: 40px;
   max-width: 1100px;
-   margin: 0 auto;
+  margin: 0 auto;
 }
  
 .about-image {
@@ -46,4 +46,9 @@
   .about-copy h1 {
     font-size: 2.25rem;
   }
+}
+
+body[data-theme="dark"] .about-section {
+  background: #121212;
+  color: #f5f5f5;
 }

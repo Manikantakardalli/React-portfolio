@@ -1,4 +1,3 @@
-import './AboutPage.css';
 import AboutSection from '../components/AboutSection/AboutSection';
 import GitHubStats from '../components/GitHubStats/GitHubStats';
 import SkillCard from '../components/SkillCard/SkillCard';
@@ -24,7 +23,7 @@ function About() {
 
       <section style={{ marginTop: '40px' }}>
         <h2>GitHub Activity</h2>
-        <GitHubStats username='manikantakardalli' />
+        <GitHubStats username='soumik03' />
       </section>
     </div>
   );

@@ -59,5 +59,27 @@ export const projectsData = [
         featured: false,
         liveUrl: 'videos/Hotel-output.mp4',
         githubUrl: 'https://github.com/Manikantakardalli/python-programs/blob/main/Mini_projects/hotel_management_system.py'
+    },
+
+    {
+        id: 6,
+        title: 'Spam Message Detector',
+        description: 'Python-based spam message detection system',
+        longDesc: 'A console-based spam message detection system developed using Python for identifying and filtering spam messages.',
+        tech: ['Python', 'Console'],
+        category: 'python',
+        featured: false,
+        liveUrl: 'https://spam-message-detector24.streamlit.app/',
+        githubUrl: 'https://github.com/Manikantakardalli/spam-message-detector'
     }
+];
+
+export const SKILLS = [
+  { name: 'HTML5', level: 'Advanced', icon: '🌐' },
+  { name: 'CSS3', level: 'Advanced', icon: '🎨' },
+  { name: 'JavaScript', level: 'Advanced', icon: '⚡' },
+  { name: 'React', level: 'Intermediate', icon: '⚛️' },
+  { name: 'Java', level: 'Medium', icon: '☕' },
+  { name: 'Python', level: 'Advanced', icon: '🐍' },
+  { name: 'C/C++', level: 'Advanced', icon: '💻' }
 ];
