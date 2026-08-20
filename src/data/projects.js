@@ -21,7 +21,7 @@ export const projectsData = [
         tech: ['Java', 'Console'],
         category: 'java',
         featured: true,
-        liveUrl: 'videos/Bank-output.mp4',
+        liveUrl: '/videos/Bank-output.mp4',
         githubUrl: 'https://github.com/Manikantakardalli/java-programs/blob/main/src/mini_projects/Bank.java'
     },
 
@@ -45,7 +45,7 @@ export const projectsData = [
         tech: ['Python', 'Console'],
         category: 'python',
         featured: false,
-        liveUrl: 'videos/Movie-output.mp4',
+        liveUrl: '/videos/Movie-output.mp4',
         githubUrl: 'https://github.com/Manikantakardalli/python-programs/blob/main/Mini_projects/movie_booking.py'
     },
 
