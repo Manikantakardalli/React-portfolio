@@ -57,7 +57,7 @@ export const projectsData = [
         tech: ['Python', 'Console'],
         category: 'python',
         featured: false,
-        liveUrl: 'videos/Hotel-output.mp4',
+        liveUrl: '/videos/Hotel-output.mp4',
         githubUrl: 'https://github.com/Manikantakardalli/python-programs/blob/main/Mini_projects/hotel_management_system.py'
     },
 
